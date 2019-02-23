@@ -1,0 +1,11 @@
+{
+  "name": "attachmentbot",
+  "version": "0.1.0",
+  "description": "sweeps channels for attachments",
+  "main": "bot.js",
+  "author": "Ghost_",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security"
+  }
+}
