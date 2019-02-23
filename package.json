@@ -6,6 +6,7 @@
   "author": "Ghost_",
   "dependencies": {
     "discord.js": "^11.4.2",
+    "express": "^4.16.4",
     "fs": "0.0.1-security"
   }
 }
