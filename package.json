@@ -5,6 +5,7 @@
   "main": "bot.js",
   "author": "Ghost_",
   "dependencies": {
+    "append-stream": "^1.2.2",
     "discord.js": "^11.4.2",
     "express": "^4.16.4",
     "file-system": "^2.2.2",
